@@ -23,4 +23,10 @@ rechercher les bugs
 Rechercher des implémentations du proxy déjà réalisées  
 - dash.js https://github.com/Dash-Industry-Forum/dash.js  
 - shaka-khan  
-- Etudier Framework MSL https://github.com/Netflix/msl/wiki/
+- Etudier Framework MSL https://github.com/Netflix/msl/wiki/  
+
+## Réferences
+https://storage.googleapis.com/wvdocs/Widevine_DRM_Proxy_Integration.pdf
+https://support.google.com/widevine/answer/6048495?hl=en
+https://www.wowza.com/community/questions/6614/recommend-a-widevine-license-server.html
+https://www.wowza.com/docs/how-to-secure-mpeg-dash-streaming-using-common-encryption-cenc
